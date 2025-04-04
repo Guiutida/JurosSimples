@@ -16,3 +16,4 @@ tempo = Convert.ToDouble(Console.ReadLine());
 total = capital + juros;
     Console.WriteLine($"Juros (R$).....: {juros}");
     Console.WriteLine($"Montante (R$)..: {total}");
+    Console.WriteLine("obrigado!");
